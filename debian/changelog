@@ -1,0 +1,17 @@
+ros-hydro-husky-teleop (0.0.2-0precise) precise; urgency=high
+
+  * Take over maintainership of teleop.
+  * Fix topic to be husky/cmd_vel
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 13 Sep 2013 04:00:00 -0000
+
+ros-hydro-husky-teleop (0.0.1-0precise) precise; urgency=high
+
+  * Add install() macros.
+  * Move things around, reorganize into subdirectories.
+  * Move script to scripts folder, rename to joystick_teleop.
+  * Strip the repo down to just teleop, rename to husky_teleop.
+
+ -- Alex Bencz <abencz@clearpathrobotics.com>  Wed, 11 Sep 2013 04:00:00 -0000
+
+
