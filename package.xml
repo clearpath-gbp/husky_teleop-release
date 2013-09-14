@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>husky_teleop</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>
     Basic node for transforming joystick messages to cmd_vel for Husky.
   </description>
 
-  <author email="mpurvis@clearpathrobotics.com">Mike Purvis</author>
-  <maintainer email="abencz@clearpathrobotics.com">Alex Bencz</maintainer>
+  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
   <license>BSD</license>
 
   <url type="website">http://ros.org/wiki/husky_teleop</url>
